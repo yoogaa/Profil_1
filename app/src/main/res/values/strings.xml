@@ -1,3 +1,6 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Profil</string>
+    <string name="my_university">The National Institute of Technology Malang</string>
+    <string name="my_home">Sekar Asri Housing block I/11, Pasuruan City</string>
+    <string name="follow_me">Follow Me</string>
 </resources>

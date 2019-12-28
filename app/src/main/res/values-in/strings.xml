@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Profil</string>
+    <string name="follow_me">Ikuti Saya</string>
+    <string name="my_home">Perumahan Sekar Asri blok I/11, Kota Pasuruan</string>
+    <string name="my_university">Institut Teknologi Nasional Malang</string>
+</resources>
